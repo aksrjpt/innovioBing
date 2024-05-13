@@ -30,7 +30,6 @@ export class RecentlyVisitedService {
 					(x: Movie) => x.id === movieName.id
 				);
 
-				console.log(foundIndex, movieName.title);
 				if (foundIndex !== -1) {
 					allVisitedMovies.splice(foundIndex, 1);
 				}
