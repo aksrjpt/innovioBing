@@ -1,0 +1,25 @@
+<div class="movie-container" *ngIf="movie">
+	<div class="movie-details">
+		<h1>{{ movie.title }}</h1>
+
+		<div class="movie-content-detials">
+			<div>
+				<div>Rating : {{ movie.popularity | number : "1.2-2" }}</div>
+				<div>Budget : {{ selectedCurrency }} {{ movie.budget }}</div>
+				<div>Genres : {{ movie.genres }}</div>
+			</div>
+			<div>
+				<div>Released : {{ movie.released }}</div>
+				<div>Runtime : {{ movie.runtime }}</div>
+			</div>
+		</div>
+	</div>
+	<div>
+		<div>
+			<img [src]="movie.image.url" class="image-container" />
+		</div>
+	</div>
+</div>
+<div *ngIf="!movie" class="movie-container" style="height: 100vh">
+	<h1>Movie Not Found</h1>
+</div>

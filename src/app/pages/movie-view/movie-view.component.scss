@@ -1,0 +1,22 @@
+.movie-container {
+	display: flex;
+	justify-content: space-between;
+	background-color: black;
+	width: 95%;
+	border-radius: 5px;
+}
+
+.movie-details {
+	align-content: center;
+	padding: 20px;
+}
+
+.image-container {
+	height: 100vh;
+}
+
+.movie-content-detials {
+	display: flex;
+	width: 30rem;
+	justify-content: space-between;
+}

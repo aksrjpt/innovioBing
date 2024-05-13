@@ -1,0 +1,61 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+
+body {
+	background: rgb(0 0 0 / 40%);
+	background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/ff5587c5-1052-47cf-974b-a97e3b4f0656/be737f50-9ea7-4d3a-b194-ad07c4630147/SG-en-20240506-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	color: white;
+	margin: 0px;
+}
+
+.movie-tile {
+	&.p-card {
+		border-radius: 1rem;
+		overflow: hidden;
+		margin: 5px;
+	}
+
+	.p-card-body {
+		display: none;
+	}
+}
+
+.titles {
+	color: white;
+}
+
+.mat-drawer-content {
+	background-color: #fafafa;
+	color: rgba(0, 0, 0, 0.87);
+}
+
+.mat-drawer-inner-container {
+	align-content: center;
+	padding: 5px;
+}
+
+a {
+	color: #fff;
+}
+
+.p-multiselect {
+	background: #494747b8;
+	border: 1px solid #d1d5db;
+	transition: background-color 0.2s, color 0.2s, border-color 0.2s,
+		box-shadow 0.2s;
+	border-radius: 6px;
+}
+
+.mat-mdc-text-field-wrapper {
+	width: 100%;
+	z-index: 0;
+	background-color: #ffffff8c !important;
+}

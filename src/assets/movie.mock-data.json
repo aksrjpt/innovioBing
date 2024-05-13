@@ -1,0 +1,4382 @@
+[
+    {
+        "id": "tt0111161",
+        "title": "The Shawshank Redemption",
+        "popularity": "9.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "The Shawshank Redemption"
+        },
+        "slug": "the-shawshank-redemption",
+        "runtime": "142 min",
+        "released": "14 Oct 1994",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 28767189
+    },
+    {
+        "id": "tt0068646",
+        "title": "The Godfather",
+        "popularity": "9.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "The Godfather"
+        },
+        "slug": "the-godfather",
+        "runtime": "175 min",
+        "released": "24 Mar 1972",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 136381073
+    },
+    {
+        "id": "tt0468569",
+        "title": "The Dark Knight",
+        "popularity": "9.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+            "title": "The Dark Knight"
+        },
+        "slug": "the-dark-knight",
+        "runtime": "152 min",
+        "released": "18 Jul 2008",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 534987076
+    },
+    {
+        "id": "tt0071562",
+        "title": "The Godfather: Part II",
+        "popularity": "9.0",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "The Godfather: Part II"
+        },
+        "slug": "the-godfather-part-ii",
+        "runtime": "202 min",
+        "released": "18 Dec 1974",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 47834595
+    },
+    {
+        "id": "tt0050083",
+        "title": "12 Angry Men",
+        "popularity": "9.0",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "12 Angry Men"
+        },
+        "slug": "12-angry-men",
+        "runtime": "96 min",
+        "released": "10 Apr 1957",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0108052",
+        "title": "Schindler's List",
+        "popularity": "8.9",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Schindler's List"
+        },
+        "slug": "schindlers-list",
+        "runtime": "195 min",
+        "released": "04 Feb 1994",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "budget": 96898818
+    },
+    {
+        "id": "tt0167260",
+        "title": "The Lord of the Rings: The Return of the King",
+        "popularity": "9.0",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "The Lord of the Rings: The Return of the King"
+        },
+        "slug": "the-lord-of-the-rings-the-return-of-the-king",
+        "runtime": "201 min",
+        "released": "17 Dec 2003",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "budget": 378251207
+    },
+    {
+        "id": "tt0110912",
+        "title": "Pulp Fiction",
+        "popularity": "8.9",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Pulp Fiction"
+        },
+        "slug": "pulp-fiction",
+        "runtime": "154 min",
+        "released": "14 Oct 1994",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 107928762
+    },
+    {
+        "id": "tt0120737",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "popularity": "8.8",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+            "title": "The Lord of the Rings: The Fellowship of the Ring"
+        },
+        "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring",
+        "runtime": "178 min",
+        "released": "19 Dec 2001",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "budget": 316115420
+    },
+    {
+        "id": "tt0060196",
+        "title": "The Good, the Bad and the Ugly",
+        "popularity": "8.8",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "title": "The Good, the Bad and the Ugly"
+        },
+        "slug": "the-good-the-bad-and-the-ugly",
+        "runtime": "178 min",
+        "released": "29 Dec 1967",
+        "genres": [
+            "Adventure",
+            "Western"
+        ],
+        "budget": 25100000
+    },
+    {
+        "id": "tt0109830",
+        "title": "Forrest Gump",
+        "popularity": "8.8",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Forrest Gump"
+        },
+        "slug": "forrest-gump",
+        "runtime": "142 min",
+        "released": "06 Jul 1994",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 330455270
+    },
+    {
+        "id": "tt0137523",
+        "title": "Fight Club",
+        "popularity": "8.8",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "title": "Fight Club"
+        },
+        "slug": "fight-club",
+        "runtime": "139 min",
+        "released": "15 Oct 1999",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 37030102
+    },
+    {
+        "id": "tt1375666",
+        "title": "Inception",
+        "popularity": "8.8",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+            "title": "Inception"
+        },
+        "slug": "inception",
+        "runtime": "148 min",
+        "released": "16 Jul 2010",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "budget": 292587330
+    },
+    {
+        "id": "tt0167261",
+        "title": "The Lord of the Rings: The Two Towers",
+        "popularity": "8.7",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "The Lord of the Rings: The Two Towers"
+        },
+        "slug": "the-lord-of-the-rings-the-two-towers",
+        "runtime": "179 min",
+        "released": "18 Dec 2002",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "budget": 342952511
+    },
+    {
+        "id": "tt0080684",
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "popularity": "8.7",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Star Wars: Episode V - The Empire Strikes Back"
+        },
+        "slug": "star-wars-episode-v-the-empire-strikes-back",
+        "runtime": "124 min",
+        "released": "20 Jun 1980",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "budget": 292753960
+    },
+    {
+        "id": "tt0133093",
+        "title": "The Matrix",
+        "popularity": "8.7",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "The Matrix"
+        },
+        "slug": "the-matrix",
+        "runtime": "136 min",
+        "released": "31 Mar 1999",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "budget": 172076928
+    },
+    {
+        "id": "tt0099685",
+        "title": "Goodfellas",
+        "popularity": "8.7",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Goodfellas"
+        },
+        "slug": "goodfellas",
+        "runtime": "145 min",
+        "released": "21 Sep 1990",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 46909721
+    },
+    {
+        "id": "tt0073486",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "popularity": "8.7",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "One Flew Over the Cuckoo's Nest"
+        },
+        "slug": "one-flew-over-the-cuckoos-nest",
+        "runtime": "133 min",
+        "released": "19 Nov 1975",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 108981275
+    },
+    {
+        "id": "tt0114369",
+        "title": "Se7en",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Se7en"
+        },
+        "slug": "se-7-en",
+        "runtime": "127 min",
+        "released": "22 Sep 1995",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 100125643
+    },
+    {
+        "id": "tt0047478",
+        "title": "Seven Samurai",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "title": "Seven Samurai"
+        },
+        "slug": "seven-samurai",
+        "runtime": "207 min",
+        "released": "19 Nov 1956",
+        "genres": [
+            "Action",
+            "Drama"
+        ],
+        "budget": 318649
+    },
+    {
+        "id": "tt0038650",
+        "title": "It's a Wonderful Life",
+        "popularity": "8.7",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg",
+            "title": "It's a Wonderful Life"
+        },
+        "slug": "its-a-wonderful-life",
+        "runtime": "130 min",
+        "released": "07 Jan 1947",
+        "genres": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "budget": 44000
+    },
+    {
+        "id": "tt0102926",
+        "title": "The Silence of the Lambs",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "The Silence of the Lambs"
+        },
+        "slug": "the-silence-of-the-lambs",
+        "runtime": "118 min",
+        "released": "14 Feb 1991",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 130742922
+    },
+    {
+        "id": "tt0120815",
+        "title": "Saving Private Ryan",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+            "title": "Saving Private Ryan"
+        },
+        "slug": "saving-private-ryan",
+        "runtime": "169 min",
+        "released": "24 Jul 1998",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 217049603
+    },
+    {
+        "id": "tt0317248",
+        "title": "City of God",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "City of God"
+        },
+        "slug": "city-of-god",
+        "runtime": "130 min",
+        "released": "13 Feb 2004",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 7564459
+    },
+    {
+        "id": "tt0118799",
+        "title": "Life Is Beautiful",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Life Is Beautiful"
+        },
+        "slug": "life-is-beautiful",
+        "runtime": "116 min",
+        "released": "20 Dec 1997",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 57563264
+    },
+    {
+        "id": "tt0120689",
+        "title": "The Green Mile",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg",
+            "title": "The Green Mile"
+        },
+        "slug": "the-green-mile",
+        "runtime": "189 min",
+        "released": "10 Dec 1999",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ],
+        "budget": 136801374
+    },
+    {
+        "id": "tt0076759",
+        "title": "Star Wars",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Star Wars"
+        },
+        "slug": "star-wars",
+        "runtime": "121 min",
+        "released": "25 May 1977",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "budget": 460998507
+    },
+    {
+        "id": "tt0816692",
+        "title": "Interstellar",
+        "popularity": "8.7",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Interstellar"
+        },
+        "slug": "interstellar",
+        "runtime": "169 min",
+        "released": "07 Nov 2014",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "budget": 188020017
+    },
+    {
+        "id": "tt0103064",
+        "title": "Terminator 2: Judgment Day",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Terminator 2: Judgment Day"
+        },
+        "slug": "terminator-2-judgment-day",
+        "runtime": "137 min",
+        "released": "03 Jul 1991",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "budget": 205881154
+    },
+    {
+        "id": "tt0088763",
+        "title": "Back to the Future",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Back to the Future"
+        },
+        "slug": "back-to-the-future",
+        "runtime": "116 min",
+        "released": "03 Jul 1985",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "budget": 212836762
+    },
+    {
+        "id": "tt0245429",
+        "title": "Spirited Away",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Spirited Away"
+        },
+        "slug": "spirited-away",
+        "runtime": "125 min",
+        "released": "28 Mar 2003",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "budget": 13750644
+    },
+    {
+        "id": "tt0054215",
+        "title": "Psycho",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Psycho"
+        },
+        "slug": "psycho",
+        "runtime": "109 min",
+        "released": "08 Sep 1960",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 32000000
+    },
+    {
+        "id": "tt0253474",
+        "title": "The Pianist",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "The Pianist"
+        },
+        "slug": "the-pianist",
+        "runtime": "150 min",
+        "released": "28 Mar 2003",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "budget": 32572577
+    },
+    {
+        "id": "tt0110413",
+        "title": "Léon: The Professional",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+            "title": "Léon: The Professional"
+        },
+        "slug": "leon-the-professional",
+        "runtime": "110 min",
+        "released": "18 Nov 1994",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 19501238
+    },
+    {
+        "id": "tt6751668",
+        "title": "Parasite",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+            "title": "Parasite"
+        },
+        "slug": "parasite",
+        "runtime": "132 min",
+        "released": "08 Nov 2019",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 53369749
+    },
+    {
+        "id": "tt0110357",
+        "title": "The Lion King",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg",
+            "title": "The Lion King"
+        },
+        "slug": "the-lion-king",
+        "runtime": "88 min",
+        "released": "24 Jun 1994",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "budget": 422783777
+    },
+    {
+        "id": "tt0172495",
+        "title": "Gladiator",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Gladiator"
+        },
+        "slug": "gladiator",
+        "runtime": "155 min",
+        "released": "05 May 2000",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "budget": 187705427
+    },
+    {
+        "id": "tt0120586",
+        "title": "American History X",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg",
+            "title": "American History X"
+        },
+        "slug": "american-history-x",
+        "runtime": "119 min",
+        "released": "20 Nov 1998",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 6719864
+    },
+    {
+        "id": "tt0114814",
+        "title": "The Usual Suspects",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "The Usual Suspects"
+        },
+        "slug": "the-usual-suspects",
+        "runtime": "106 min",
+        "released": "16 Aug 1995",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 23341568
+    },
+    {
+        "id": "tt0407887",
+        "title": "The Departed",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
+            "title": "The Departed"
+        },
+        "slug": "the-departed",
+        "runtime": "151 min",
+        "released": "06 Oct 2006",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 132399394
+    },
+    {
+        "id": "tt0482571",
+        "title": "The Prestige",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg",
+            "title": "The Prestige"
+        },
+        "slug": "the-prestige",
+        "runtime": "130 min",
+        "released": "20 Oct 2006",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 53089891
+    },
+    {
+        "id": "tt0034583",
+        "title": "Casablanca",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+            "title": "Casablanca"
+        },
+        "slug": "casablanca",
+        "runtime": "102 min",
+        "released": "23 Jan 1943",
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "budget": 4219709
+    },
+    {
+        "id": "tt2582802",
+        "title": "Whiplash",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Whiplash"
+        },
+        "slug": "whiplash",
+        "runtime": "106 min",
+        "released": "15 Oct 2014",
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "budget": 13092000
+    },
+    {
+        "id": "tt1675434",
+        "title": "The Intouchables",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_SX300.jpg",
+            "title": "The Intouchables"
+        },
+        "slug": "the-intouchables",
+        "runtime": "112 min",
+        "released": "02 Nov 2011",
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 10198820
+    },
+    {
+        "id": "tt0027977",
+        "title": "Modern Times",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Modern Times"
+        },
+        "slug": "modern-times",
+        "runtime": "87 min",
+        "released": "25 Feb 1936",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 163577
+    },
+    {
+        "id": "tt0064116",
+        "title": "Once Upon a Time in the West",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Once Upon a Time in the West"
+        },
+        "slug": "once-upon-a-time-in-the-west",
+        "runtime": "165 min",
+        "released": "04 Jul 1969",
+        "genres": [
+            "Western"
+        ],
+        "budget": 5321508
+    },
+    {
+        "id": "tt0056058",
+        "title": "Hara-Kiri",
+        "popularity": "8.6",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+            "title": "Hara-Kiri"
+        },
+        "slug": "hara-kiri",
+        "runtime": "133 min",
+        "released": "04 Aug 1964",
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0095327",
+        "title": "Grave of the Fireflies",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+            "title": "Grave of the Fireflies"
+        },
+        "slug": "grave-of-the-fireflies",
+        "runtime": "89 min",
+        "released": "26 Jul 1989",
+        "genres": [
+            "Animation",
+            "Drama",
+            "War"
+        ],
+        "budget": 516962
+    },
+    {
+        "id": "tt0078748",
+        "title": "Alien",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Alien"
+        },
+        "slug": "alien",
+        "runtime": "117 min",
+        "released": "22 Jun 1979",
+        "genres": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "budget": 81900459
+    },
+    {
+        "id": "tt0047396",
+        "title": "Rear Window",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Rear Window"
+        },
+        "slug": "rear-window",
+        "runtime": "112 min",
+        "released": "01 Sep 1954",
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 36764313
+    },
+    {
+        "id": "tt0021749",
+        "title": "City Lights",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "City Lights"
+        },
+        "slug": "city-lights",
+        "runtime": "87 min",
+        "released": "07 Mar 1931",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 19181
+    },
+    {
+        "id": "tt0209144",
+        "title": "Memento",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Memento"
+        },
+        "slug": "memento",
+        "runtime": "113 min",
+        "released": "25 May 2001",
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 25544867
+    },
+    {
+        "id": "tt0095765",
+        "title": "Cinema Paradiso",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_SX300.jpg",
+            "title": "Cinema Paradiso"
+        },
+        "slug": "cinema-paradiso",
+        "runtime": "155 min",
+        "released": "23 Feb 1990",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 12397210
+    },
+    {
+        "id": "tt0078788",
+        "title": "Apocalypse Now",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Apocalypse Now"
+        },
+        "slug": "apocalypse-now",
+        "runtime": "147 min",
+        "released": "15 Aug 1979",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "War"
+        ],
+        "budget": 83471511
+    },
+    {
+        "id": "tt0082971",
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_SX300.jpg",
+            "title": "Indiana Jones and the Raiders of the Lost Ark"
+        },
+        "slug": "indiana-jones-and-the-raiders-of-the-lost-ark",
+        "runtime": "115 min",
+        "released": "12 Jun 1981",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "budget": 248159971
+    },
+    {
+        "id": "tt1853728",
+        "title": "Django Unchained",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
+            "title": "Django Unchained"
+        },
+        "slug": "django-unchained",
+        "runtime": "165 min",
+        "released": "25 Dec 2012",
+        "genres": [
+            "Drama",
+            "Western"
+        ],
+        "budget": 162805434
+    },
+    {
+        "id": "tt0910970",
+        "title": "WALL·E",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_SX300.jpg",
+            "title": "WALL·E"
+        },
+        "slug": "wall-e",
+        "runtime": "98 min",
+        "released": "27 Jun 2008",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "budget": 223808164
+    },
+    {
+        "id": "tt0405094",
+        "title": "The Lives of Others",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTQyZGFjNWMtYWFiYy00OWU1LTlhMjAtYTBiNmU5NjJiNTAzXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SX300.jpg",
+            "title": "The Lives of Others"
+        },
+        "slug": "the-lives-of-others",
+        "runtime": "137 min",
+        "released": "30 Mar 2007",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 11286112
+    },
+    {
+        "id": "tt0043014",
+        "title": "Sunset Blvd.",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_SX300.jpg",
+            "title": "Sunset Blvd."
+        },
+        "slug": "sunset-blvd",
+        "runtime": "110 min",
+        "released": "04 Aug 1950",
+        "genres": [
+            "Drama",
+            "Film-Noir"
+        ],
+        "budget": 299645
+    },
+    {
+        "id": "tt0081505",
+        "title": "The Shining",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "The Shining"
+        },
+        "slug": "the-shining",
+        "runtime": "146 min",
+        "released": "13 Jun 1980",
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "budget": 45634352
+    },
+    {
+        "id": "tt0050825",
+        "title": "Paths of Glory",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+            "title": "Paths of Glory"
+        },
+        "slug": "paths-of-glory",
+        "runtime": "88 min",
+        "released": "25 Dec 1957",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0032553",
+        "title": "The Great Dictator",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "The Great Dictator"
+        },
+        "slug": "the-great-dictator",
+        "runtime": "125 min",
+        "released": "07 Mar 1941",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt4154756",
+        "title": "Avengers: Infinity War",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+            "title": "Avengers: Infinity War"
+        },
+        "slug": "avengers-infinity-war",
+        "runtime": "149 min",
+        "released": "27 Apr 2018",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "budget": 678815482
+    },
+    {
+        "id": "tt0051201",
+        "title": "Witness for the Prosecution",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+            "title": "Witness for the Prosecution"
+        },
+        "slug": "witness-for-the-prosecution",
+        "runtime": "116 min",
+        "released": "06 Feb 1958",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0090605",
+        "title": "Aliens",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Aliens"
+        },
+        "slug": "aliens",
+        "runtime": "137 min",
+        "released": "18 Jul 1986",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "budget": 85160248
+    },
+    {
+        "id": "tt0169547",
+        "title": "American Beauty",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "American Beauty"
+        },
+        "slug": "american-beauty",
+        "runtime": "122 min",
+        "released": "01 Oct 1999",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 130096601
+    },
+    {
+        "id": "tt1345836",
+        "title": "The Dark Knight Rises",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_SX300.jpg",
+            "title": "The Dark Knight Rises"
+        },
+        "slug": "the-dark-knight-rises",
+        "runtime": "164 min",
+        "released": "20 Jul 2012",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 448149584
+    },
+    {
+        "id": "tt0057012",
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+        },
+        "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb",
+        "runtime": "95 min",
+        "released": "29 Jan 1964",
+        "genres": [
+            "Comedy",
+            "War"
+        ],
+        "budget": 9440272
+    },
+    {
+        "id": "tt4633694",
+        "title": "Spider-Man: Into the Spider-Verse",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+            "title": "Spider-Man: Into the Spider-Verse"
+        },
+        "slug": "spider-man-into-the-spider-verse",
+        "runtime": "117 min",
+        "released": "14 Dec 2018",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "budget": 190241310
+    },
+    {
+        "id": "tt7286456",
+        "title": "Joker",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "title": "Joker"
+        },
+        "slug": "joker",
+        "runtime": "122 min",
+        "released": "04 Oct 2019",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 335477657
+    },
+    {
+        "id": "tt0364569",
+        "title": "Old Boy",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SX300.jpg",
+            "title": "Old Boy"
+        },
+        "slug": "old-boy",
+        "runtime": "120 min",
+        "released": "21 Nov 2003",
+        "genres": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 707481
+    },
+    {
+        "id": "tt0112573",
+        "title": "Braveheart",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Braveheart"
+        },
+        "slug": "braveheart",
+        "runtime": "178 min",
+        "released": "24 May 1995",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "budget": 75609945
+    },
+    {
+        "id": "tt0114709",
+        "title": "Toy Story",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg",
+            "title": "Toy Story"
+        },
+        "slug": "toy-story",
+        "runtime": "81 min",
+        "released": "22 Nov 1995",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": 223225679
+    },
+    {
+        "id": "tt0086879",
+        "title": "Amadeus",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+            "title": "Amadeus"
+        },
+        "slug": "amadeus",
+        "runtime": "160 min",
+        "released": "19 Sep 1984",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "budget": 51973029
+    },
+    {
+        "id": "tt2380307",
+        "title": "Coco",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
+            "title": "Coco"
+        },
+        "slug": "coco",
+        "runtime": "105 min",
+        "released": "22 Nov 2017",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": 210460015
+    },
+    {
+        "id": "tt10872600",
+        "title": "Spider-Man: No Way Home",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_SX300.jpg",
+            "title": "Spider-Man: No Way Home"
+        },
+        "slug": "spider-man-no-way-home",
+        "runtime": "148 min",
+        "released": "17 Dec 2021",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "budget": 800588139
+    },
+    {
+        "id": "tt0361748",
+        "title": "Inglourious Basterds",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+            "title": "Inglourious Basterds"
+        },
+        "slug": "inglourious-basterds",
+        "runtime": "153 min",
+        "released": "21 Aug 2009",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "budget": 120540719
+    },
+    {
+        "id": "tt0082096",
+        "title": "The Boat",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "The Boat"
+        },
+        "slug": "the-boat",
+        "runtime": "149 min",
+        "released": "10 Feb 1982",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 11487676
+    },
+    {
+        "id": "tt4154796",
+        "title": "Avengers: Endgame",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg",
+            "title": "Avengers: Endgame"
+        },
+        "slug": "avengers-endgame",
+        "runtime": "181 min",
+        "released": "26 Apr 2019",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "budget": 858373000
+    },
+    {
+        "id": "tt0119698",
+        "title": "Princess Mononoke",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_SX300.jpg",
+            "title": "Princess Mononoke"
+        },
+        "slug": "princess-mononoke",
+        "runtime": "134 min",
+        "released": "19 Dec 1997",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "budget": 4845631
+    },
+    {
+        "id": "tt0087843",
+        "title": "Once Upon a Time in America",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Once Upon a Time in America"
+        },
+        "slug": "once-upon-a-time-in-america",
+        "runtime": "229 min",
+        "released": "01 Jun 1984",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 5321508
+    },
+    {
+        "id": "tt0119217",
+        "title": "Good Will Hunting",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Good Will Hunting"
+        },
+        "slug": "good-will-hunting",
+        "runtime": "126 min",
+        "released": "09 Jan 1998",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 138433435
+    },
+    {
+        "id": "tt0435761",
+        "title": "Toy Story 3",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_SX300.jpg",
+            "title": "Toy Story 3"
+        },
+        "slug": "toy-story-3",
+        "runtime": "103 min",
+        "released": "18 Jun 2010",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": 415004880
+    },
+    {
+        "id": "tt0180093",
+        "title": "Requiem for a Dream",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Requiem for a Dream"
+        },
+        "slug": "requiem-for-a-dream",
+        "runtime": "102 min",
+        "released": "15 Dec 2000",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 3635482
+    },
+    {
+        "id": "tt1187043",
+        "title": "3 Idiots",
+        "popularity": "8.5",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "3 Idiots"
+        },
+        "slug": "3-idiots",
+        "runtime": "170 min",
+        "released": "25 Dec 2009",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 6532874
+    },
+    {
+        "id": "tt5311514",
+        "title": "Your Name.",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_SX300.jpg",
+            "title": "Your Name."
+        },
+        "slug": "your-name",
+        "runtime": "106 min",
+        "released": "07 Apr 2017",
+        "genres": [
+            "Animation",
+            "Drama",
+            "Fantasy"
+        ],
+        "budget": 5017246
+    },
+    {
+        "id": "tt0045152",
+        "title": "Singin' in the Rain",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+            "title": "Singin' in the Rain"
+        },
+        "slug": "singin-in-the-rain",
+        "runtime": "103 min",
+        "released": "11 Apr 1952",
+        "genres": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "budget": 1884537
+    },
+    {
+        "id": "tt0086190",
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "title": "Star Wars: Episode VI - Return of the Jedi"
+        },
+        "slug": "star-wars-episode-vi-return-of-the-jedi",
+        "runtime": "131 min",
+        "released": "25 May 1983",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "budget": 309306177
+    },
+    {
+        "id": "tt0105236",
+        "title": "Reservoir Dogs",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Reservoir Dogs"
+        },
+        "slug": "reservoir-dogs",
+        "runtime": "99 min",
+        "released": "02 Sep 1992",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 2832029
+    },
+    {
+        "id": "tt0338013",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_SX300.jpg",
+            "title": "Eternal Sunshine of the Spotless Mind"
+        },
+        "slug": "eternal-sunshine-of-the-spotless-mind",
+        "runtime": "108 min",
+        "released": "19 Mar 2004",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "budget": 34400301
+    },
+    {
+        "id": "tt0062622",
+        "title": "2001: A Space Odyssey",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "2001: A Space Odyssey"
+        },
+        "slug": "2001-a-space-odyssey",
+        "runtime": "149 min",
+        "released": "24 Jun 1970",
+        "genres": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "budget": 60481243
+    },
+    {
+        "id": "tt0057565",
+        "title": "High and Low",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "High and Low"
+        },
+        "slug": "high-and-low",
+        "runtime": "143 min",
+        "released": "26 Nov 1963",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 46808
+    },
+    {
+        "id": "tt0033467",
+        "title": "Citizen Kane",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Citizen Kane"
+        },
+        "slug": "citizen-kane",
+        "runtime": "119 min",
+        "released": "05 Sep 1941",
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 1627530
+    },
+    {
+        "id": "tt0056172",
+        "title": "Lawrence of Arabia",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+            "title": "Lawrence of Arabia"
+        },
+        "slug": "lawrence-of-arabia",
+        "runtime": "218 min",
+        "released": "11 Dec 1962",
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "budget": 45306425
+    },
+    {
+        "id": "tt8267604",
+        "title": "Capernaum",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Capernaum"
+        },
+        "slug": "capernaum",
+        "runtime": "126 min",
+        "released": "20 Sep 2018",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 1661096
+    },
+    {
+        "id": "tt0022100",
+        "title": "M",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_SX300.jpg",
+            "title": "M"
+        },
+        "slug": "m",
+        "runtime": "99 min",
+        "released": "31 Aug 1931",
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 35566
+    },
+    {
+        "id": "tt0053125",
+        "title": "North by Northwest",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "North by Northwest"
+        },
+        "slug": "north-by-northwest",
+        "runtime": "136 min",
+        "released": "18 Dec 1959",
+        "genres": [
+            "Adventure",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 66728
+    },
+    {
+        "id": "tt2106476",
+        "title": "The Hunt",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_SX300.jpg",
+            "title": "The Hunt"
+        },
+        "slug": "the-hunt",
+        "runtime": "115 min",
+        "released": "10 Jan 2013",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 613308
+    },
+    {
+        "id": "tt0052357",
+        "title": "Vertigo",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "Vertigo"
+        },
+        "slug": "vertigo",
+        "runtime": "128 min",
+        "released": "22 May 1958",
+        "genres": [
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ],
+        "budget": 7705225
+    },
+    {
+        "id": "tt0211915",
+        "title": "Amélie",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+            "title": "Amélie"
+        },
+        "slug": "amelie",
+        "runtime": "122 min",
+        "released": "08 Feb 2002",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "budget": 33225499
+    },
+    {
+        "id": "tt0066921",
+        "title": "A Clockwork Orange",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg",
+            "title": "A Clockwork Orange"
+        },
+        "slug": "a-clockwork-orange",
+        "runtime": "136 min",
+        "released": "02 Feb 1972",
+        "genres": [
+            "Crime",
+            "Sci-Fi"
+        ],
+        "budget": 26617553
+    },
+    {
+        "id": "tt0093058",
+        "title": "Full Metal Jacket",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Full Metal Jacket"
+        },
+        "slug": "full-metal-jacket",
+        "runtime": "116 min",
+        "released": "10 Jul 1987",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 46357676
+    },
+    {
+        "id": "tt0086250",
+        "title": "Scarface",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Scarface"
+        },
+        "slug": "scarface",
+        "runtime": "170 min",
+        "released": "09 Dec 1983",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 45408703
+    },
+    {
+        "id": "tt0091251",
+        "title": "Come and See",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Come and See"
+        },
+        "slug": "come-and-see",
+        "runtime": "142 min",
+        "released": "03 Sep 1985",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "War"
+        ],
+        "budget": 71909
+    },
+    {
+        "id": "tt0036775",
+        "title": "Double Indemnity",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg",
+            "title": "Double Indemnity"
+        },
+        "slug": "double-indemnity",
+        "runtime": "107 min",
+        "released": "06 Jul 1944",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Film-Noir"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0053604",
+        "title": "The Apartment",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg",
+            "title": "The Apartment"
+        },
+        "slug": "the-apartment",
+        "runtime": "125 min",
+        "released": "29 Jun 1960",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "budget": 18600000
+    },
+    {
+        "id": "tt0075314",
+        "title": "Taxi Driver",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Taxi Driver"
+        },
+        "slug": "taxi-driver",
+        "runtime": "114 min",
+        "released": "09 Feb 1976",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 28262574
+    },
+    {
+        "id": "tt0056592",
+        "title": "To Kill a Mockingbird",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "To Kill a Mockingbird"
+        },
+        "slug": "to-kill-a-mockingbird",
+        "runtime": "129 min",
+        "released": "16 Mar 1963",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 592237
+    },
+    {
+        "id": "tt0070735",
+        "title": "The Sting",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "title": "The Sting"
+        },
+        "slug": "the-sting",
+        "runtime": "129 min",
+        "released": "25 Dec 1973",
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 156000000
+    },
+    {
+        "id": "tt1049413",
+        "title": "Up",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_SX300.jpg",
+            "title": "Up"
+        },
+        "slug": "up",
+        "runtime": "96 min",
+        "released": "29 May 2009",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": 293004164
+    },
+    {
+        "id": "tt0119488",
+        "title": "L.A. Confidential",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "L.A. Confidential"
+        },
+        "slug": "l-a-confidential",
+        "runtime": "138 min",
+        "released": "19 Sep 1997",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 64616940
+    },
+    {
+        "id": "tt8503618",
+        "title": "Hamilton",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SX300.jpg",
+            "title": "Hamilton"
+        },
+        "slug": "hamilton",
+        "runtime": "160 min",
+        "released": "03 Jul 2020",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0113277",
+        "title": "Heat",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGMwNzUwNjYtZWM5NS00YzMyLWI4NjAtNjM0ZDBiMzE1YWExXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+            "title": "Heat"
+        },
+        "slug": "heat",
+        "runtime": "170 min",
+        "released": "15 Dec 1995",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 67436818
+    },
+    {
+        "id": "tt0044741",
+        "title": "Ikiru",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTdkN2E5OTYtN2FiMi00YWUwLWEzMGMtZTMzNjY0NjgzYzFiXkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_SX300.jpg",
+            "title": "Ikiru"
+        },
+        "slug": "ikiru",
+        "runtime": "143 min",
+        "released": "25 Mar 1956",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 60239
+    },
+    {
+        "id": "tt0208092",
+        "title": "Snatch",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+            "title": "Snatch"
+        },
+        "slug": "snatch",
+        "runtime": "102 min",
+        "released": "19 Jan 2001",
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "budget": 30328156
+    },
+    {
+        "id": "tt0095016",
+        "title": "Die Hard",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Die Hard"
+        },
+        "slug": "die-hard",
+        "runtime": "132 min",
+        "released": "20 Jul 1988",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "budget": 83844093
+    },
+    {
+        "id": "tt0097576",
+        "title": "Indiana Jones and the Last Crusade",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+            "title": "Indiana Jones and the Last Crusade"
+        },
+        "slug": "indiana-jones-and-the-last-crusade",
+        "runtime": "127 min",
+        "released": "24 May 1989",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "budget": 197171806
+    },
+    {
+        "id": "tt1832382",
+        "title": "A Separation",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "A Separation"
+        },
+        "slug": "a-separation",
+        "runtime": "123 min",
+        "released": "16 Mar 2011",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 7099055
+    },
+    {
+        "id": "tt0017136",
+        "title": "Metropolis",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Metropolis"
+        },
+        "slug": "metropolis",
+        "runtime": "153 min",
+        "released": "13 Mar 1927",
+        "genres": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "budget": 1236166
+    },
+    {
+        "id": "tt0040522",
+        "title": "Bicycle Thieves",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Bicycle Thieves"
+        },
+        "slug": "bicycle-thieves",
+        "runtime": "89 min",
+        "released": "13 Dec 1949",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 371111
+    },
+    {
+        "id": "tt1255953",
+        "title": "Incendies",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Incendies"
+        },
+        "slug": "incendies",
+        "runtime": "131 min",
+        "released": "12 Jan 2011",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "War"
+        ],
+        "budget": 2071334
+    },
+    {
+        "id": "tt8579674",
+        "title": "1917",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX300.jpg",
+            "title": "1917"
+        },
+        "slug": "1917",
+        "runtime": "119 min",
+        "released": "10 Jan 2020",
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "budget": 159227644
+    },
+    {
+        "id": "tt0986264",
+        "title": "Like Stars on Earth",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Like Stars on Earth"
+        },
+        "slug": "like-stars-on-earth",
+        "runtime": "165 min",
+        "released": "21 Dec 2007",
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "budget": 1223869
+    },
+    {
+        "id": "tt0372784",
+        "title": "Batman Begins",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Batman Begins"
+        },
+        "slug": "batman-begins",
+        "runtime": "140 min",
+        "released": "15 Jun 2005",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 206863479
+    },
+    {
+        "id": "tt0059578",
+        "title": "For a Few Dollars More",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "For a Few Dollars More"
+        },
+        "slug": "for-a-few-dollars-more",
+        "runtime": "132 min",
+        "released": "10 May 1967",
+        "genres": [
+            "Western"
+        ],
+        "budget": 15000000
+    },
+    {
+        "id": "tt5074352",
+        "title": "Dangal",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SX300.jpg",
+            "title": "Dangal"
+        },
+        "slug": "dangal",
+        "runtime": "161 min",
+        "released": "21 Dec 2016",
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "budget": 12391761
+    },
+    {
+        "id": "tt0363163",
+        "title": "Downfall",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_SX300.jpg",
+            "title": "Downfall"
+        },
+        "slug": "downfall",
+        "runtime": "156 min",
+        "released": "08 Apr 2005",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "budget": 5509040
+    },
+    {
+        "id": "tt0012349",
+        "title": "The Kid",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "The Kid"
+        },
+        "slug": "the-kid",
+        "runtime": "68 min",
+        "released": "06 Feb 1921",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0053291",
+        "title": "Some Like It Hot",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Some Like It Hot"
+        },
+        "slug": "some-like-it-hot",
+        "runtime": "121 min",
+        "released": "19 Mar 1959",
+        "genres": [
+            "Comedy",
+            "Music",
+            "Romance"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt1877830",
+        "title": "The Batman",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_SX300.jpg",
+            "title": "The Batman"
+        },
+        "slug": "the-batman",
+        "runtime": "176 min",
+        "released": "04 Mar 2022",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 239032047
+    },
+    {
+        "id": "tt10272386",
+        "title": "The Father",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "title": "The Father"
+        },
+        "slug": "the-father",
+        "runtime": "97 min",
+        "released": "26 Feb 2021",
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 2122771
+    },
+    {
+        "id": "tt0042192",
+        "title": "All About Eve",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg",
+            "title": "All About Eve"
+        },
+        "slug": "all-about-eve",
+        "runtime": "138 min",
+        "released": "27 Oct 1950",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 63463
+    },
+    {
+        "id": "tt0993846",
+        "title": "The Wolf of Wall Street",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+            "title": "The Wolf of Wall Street"
+        },
+        "slug": "the-wolf-of-wall-street",
+        "runtime": "180 min",
+        "released": "25 Dec 2013",
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Crime"
+        ],
+        "budget": 116900694
+    },
+    {
+        "id": "tt6966692",
+        "title": "Green Book",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SX300.jpg",
+            "title": "Green Book"
+        },
+        "slug": "green-book",
+        "runtime": "130 min",
+        "released": "16 Nov 2018",
+        "genres": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 85080171
+    },
+    {
+        "id": "tt0105695",
+        "title": "Unforgiven",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Unforgiven"
+        },
+        "slug": "unforgiven",
+        "runtime": "130 min",
+        "released": "07 Aug 1992",
+        "genres": [
+            "Drama",
+            "Western"
+        ],
+        "budget": 101167799
+    },
+    {
+        "id": "tt0112641",
+        "title": "Casino",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+            "title": "Casino"
+        },
+        "slug": "casino",
+        "runtime": "178 min",
+        "released": "22 Nov 1995",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 42512375
+    },
+    {
+        "id": "tt0055031",
+        "title": "Judgment at Nuremberg",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_SX300.jpg",
+            "title": "Judgment at Nuremberg"
+        },
+        "slug": "judgment-at-nuremberg",
+        "runtime": "179 min",
+        "released": "18 Dec 1961",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0457430",
+        "title": "Pan's Labyrinth",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "title": "Pan's Labyrinth"
+        },
+        "slug": "pans-labyrinth",
+        "runtime": "118 min",
+        "released": "19 Jan 2007",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "War"
+        ],
+        "budget": 37646380
+    },
+    {
+        "id": "tt0089881",
+        "title": "Ran",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNTEyNjg0MDM4OF5BMl5BanBnXkFtZTgwODI0NjUxODE@._V1_SX300.jpg",
+            "title": "Ran"
+        },
+        "slug": "ran",
+        "runtime": "162 min",
+        "released": "01 Jun 1985",
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "budget": 4135750
+    },
+    {
+        "id": "tt0268978",
+        "title": "A Beautiful Mind",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "A Beautiful Mind"
+        },
+        "slug": "a-beautiful-mind",
+        "runtime": "135 min",
+        "released": "04 Jan 2002",
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "budget": 170742341
+    },
+    {
+        "id": "tt0167404",
+        "title": "The Sixth Sense",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+            "title": "The Sixth Sense"
+        },
+        "slug": "the-sixth-sense",
+        "runtime": "107 min",
+        "released": "06 Aug 1999",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 293506292
+    },
+    {
+        "id": "tt0071853",
+        "title": "Monty Python and the Holy Grail",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Monty Python and the Holy Grail"
+        },
+        "slug": "monty-python-and-the-holy-grail",
+        "runtime": "91 min",
+        "released": "25 May 1975",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "budget": 1827696
+    },
+    {
+        "id": "tt0469494",
+        "title": "There Will Be Blood",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg",
+            "title": "There Will Be Blood"
+        },
+        "slug": "there-will-be-blood",
+        "runtime": "158 min",
+        "released": "25 Jan 2008",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 40222514
+    },
+    {
+        "id": "tt0120382",
+        "title": "The Truman Show",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+            "title": "The Truman Show"
+        },
+        "slug": "the-truman-show",
+        "runtime": "103 min",
+        "released": "05 Jun 1998",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 125618201
+    },
+    {
+        "id": "tt0055630",
+        "title": "Yojimbo",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+            "title": "Yojimbo"
+        },
+        "slug": "yojimbo",
+        "runtime": "110 min",
+        "released": "13 Sep 1961",
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 46808
+    },
+    {
+        "id": "tt0040897",
+        "title": "The Treasure of the Sierra Madre",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+            "title": "The Treasure of the Sierra Madre"
+        },
+        "slug": "the-treasure-of-the-sierra-madre",
+        "runtime": "126 min",
+        "released": "24 Jan 1948",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "budget": 5014000
+    },
+    {
+        "id": "tt1130884",
+        "title": "Shutter Island",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Shutter Island"
+        },
+        "slug": "shutter-island",
+        "runtime": "138 min",
+        "released": "19 Feb 2010",
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 128012934
+    },
+    {
+        "id": "tt0057115",
+        "title": "The Great Escape",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+            "title": "The Great Escape"
+        },
+        "slug": "the-great-escape",
+        "runtime": "172 min",
+        "released": "04 Jul 1963",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0042876",
+        "title": "Rashomon",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_SX300.jpg",
+            "title": "Rashomon"
+        },
+        "slug": "rashomon",
+        "runtime": "88 min",
+        "released": "26 Dec 1951",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 46808
+    },
+    {
+        "id": "tt0107290",
+        "title": "Jurassic Park",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+            "title": "Jurassic Park"
+        },
+        "slug": "jurassic-park",
+        "runtime": "127 min",
+        "released": "11 Jun 1993",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "budget": 404214720
+    },
+    {
+        "id": "tt0266697",
+        "title": "Kill Bill: Vol. 1",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Kill Bill: Vol. 1"
+        },
+        "slug": "kill-bill-vol-1",
+        "runtime": "111 min",
+        "released": "10 Oct 2003",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 70099045
+    },
+    {
+        "id": "tt0477348",
+        "title": "No Country for Old Men",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg",
+            "title": "No Country for Old Men"
+        },
+        "slug": "no-country-for-old-men",
+        "runtime": "122 min",
+        "released": "21 Nov 2007",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 74283625
+    },
+    {
+        "id": "tt0266543",
+        "title": "Finding Nemo",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Finding Nemo"
+        },
+        "slug": "finding-nemo",
+        "runtime": "100 min",
+        "released": "30 May 2003",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": 380843261
+    },
+    {
+        "id": "tt0081398",
+        "title": "Raging Bull",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg",
+            "title": "Raging Bull"
+        },
+        "slug": "raging-bull",
+        "runtime": "129 min",
+        "released": "19 Dec 1980",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "budget": 23383987
+    },
+    {
+        "id": "tt0434409",
+        "title": "V for Vendetta",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_SX300.jpg",
+            "title": "V for Vendetta"
+        },
+        "slug": "v-for-vendetta",
+        "runtime": "132 min",
+        "released": "17 Mar 2006",
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "budget": 70511035
+    },
+    {
+        "id": "tt0080678",
+        "title": "The Elephant Man",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "The Elephant Man"
+        },
+        "slug": "the-elephant-man",
+        "runtime": "124 min",
+        "released": "10 Oct 1980",
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "budget": 26010864
+    },
+    {
+        "id": "tt0031381",
+        "title": "Gone with the Wind",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Gone with the Wind"
+        },
+        "slug": "gone-with-the-wind",
+        "runtime": "238 min",
+        "released": "17 Jan 1940",
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ],
+        "budget": 200882193
+    },
+    {
+        "id": "tt0071315",
+        "title": "Chinatown",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Chinatown"
+        },
+        "slug": "chinatown",
+        "runtime": "130 min",
+        "released": "20 Jun 1974",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 29200000
+    },
+    {
+        "id": "tt2096673",
+        "title": "Inside Out",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
+            "title": "Inside Out"
+        },
+        "slug": "inside-out",
+        "runtime": "95 min",
+        "released": "19 Jun 2015",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": 356921711
+    },
+    {
+        "id": "tt0120735",
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+            "title": "Lock, Stock and Two Smoking Barrels"
+        },
+        "slug": "lock-stock-and-two-smoking-barrels",
+        "runtime": "107 min",
+        "released": "28 Aug 1998",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "budget": 3753929
+    },
+    {
+        "id": "tt0084787",
+        "title": "The Thing",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "title": "The Thing"
+        },
+        "slug": "the-thing",
+        "runtime": "109 min",
+        "released": "25 Jun 1982",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "budget": 19629760
+    },
+    {
+        "id": "tt0046912",
+        "title": "Dial M for Murder",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "Dial M for Murder"
+        },
+        "slug": "dial-m-for-murder",
+        "runtime": "105 min",
+        "released": "29 May 1954",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "budget": 24845
+    },
+    {
+        "id": "tt1305806",
+        "title": "The Secret in Their Eyes",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "The Secret in Their Eyes"
+        },
+        "slug": "the-secret-in-their-eyes",
+        "runtime": "129 min",
+        "released": "21 May 2010",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "budget": 6391436
+    },
+    {
+        "id": "tt0347149",
+        "title": "Howl's Moving Castle",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Howl's Moving Castle"
+        },
+        "slug": "howls-moving-castle",
+        "runtime": "119 min",
+        "released": "17 Jun 2005",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "budget": 5576743
+    },
+    {
+        "id": "tt0050212",
+        "title": "The Bridge on the River Kwai",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+            "title": "The Bridge on the River Kwai"
+        },
+        "slug": "the-bridge-on-the-river-kwai",
+        "runtime": "161 min",
+        "released": "14 Dec 1957",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "budget": 27200000
+    },
+    {
+        "id": "tt0117951",
+        "title": "Trainspotting",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Trainspotting"
+        },
+        "slug": "trainspotting",
+        "runtime": "93 min",
+        "released": "09 Aug 1996",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 16491080
+    },
+    {
+        "id": "tt5027774",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_SX300.jpg",
+            "title": "Three Billboards Outside Ebbing, Missouri"
+        },
+        "slug": "three-billboards-outside-ebbing-missouri",
+        "runtime": "115 min",
+        "released": "01 Dec 2017",
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 54513740
+    },
+    {
+        "id": "tt1291584",
+        "title": "Warrior",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_SX300.jpg",
+            "title": "Warrior"
+        },
+        "slug": "warrior",
+        "runtime": "140 min",
+        "released": "09 Sep 2011",
+        "genres": [
+            "Action",
+            "Drama",
+            "Sport"
+        ],
+        "budget": 13657115
+    },
+    {
+        "id": "tt1205489",
+        "title": "Gran Torino",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_SX300.jpg",
+            "title": "Gran Torino"
+        },
+        "slug": "gran-torino",
+        "runtime": "116 min",
+        "released": "09 Jan 2009",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 148095302
+    },
+    {
+        "id": "tt0116282",
+        "title": "Fargo",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Fargo"
+        },
+        "slug": "fargo",
+        "runtime": "98 min",
+        "released": "05 Apr 1996",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "budget": 24611975
+    },
+    {
+        "id": "tt0096283",
+        "title": "My Neighbor Totoro",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "My Neighbor Totoro"
+        },
+        "slug": "my-neighbor-totoro",
+        "runtime": "86 min",
+        "released": "13 Jul 1990",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "budget": 2250213
+    },
+    {
+        "id": "tt1392214",
+        "title": "Prisoners",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_SX300.jpg",
+            "title": "Prisoners"
+        },
+        "slug": "prisoners",
+        "runtime": "153 min",
+        "released": "20 Sep 2013",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 61002302
+    },
+    {
+        "id": "tt0405159",
+        "title": "Million Dollar Baby",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_SX300.jpg",
+            "title": "Million Dollar Baby"
+        },
+        "slug": "million-dollar-baby",
+        "runtime": "132 min",
+        "released": "28 Jan 2005",
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "budget": 100492203
+    },
+    {
+        "id": "tt0083658",
+        "title": "Blade Runner",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Blade Runner"
+        },
+        "slug": "blade-runner",
+        "runtime": "117 min",
+        "released": "25 Jun 1982",
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "budget": 32914489
+    },
+    {
+        "id": "tt0264464",
+        "title": "Catch Me If You Can",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
+            "title": "Catch Me If You Can"
+        },
+        "slug": "catch-me-if-you-can",
+        "runtime": "141 min",
+        "released": "25 Dec 2002",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 164615351
+    },
+    {
+        "id": "tt0015864",
+        "title": "The Gold Rush",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "title": "The Gold Rush"
+        },
+        "slug": "the-gold-rush",
+        "runtime": "95 min",
+        "released": "13 Jul 1925",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0047296",
+        "title": "On the Waterfront",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "On the Waterfront"
+        },
+        "slug": "on-the-waterfront",
+        "runtime": "108 min",
+        "released": "22 Jun 1954",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0118849",
+        "title": "Children of Heaven",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Children of Heaven"
+        },
+        "slug": "children-of-heaven",
+        "runtime": "89 min",
+        "released": "22 Jan 1999",
+        "genres": [
+            "Drama",
+            "Family",
+            "Sport"
+        ],
+        "budget": 933933
+    },
+    {
+        "id": "tt1201607",
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+            "title": "Harry Potter and the Deathly Hallows: Part 2"
+        },
+        "slug": "harry-potter-and-the-deathly-hallows-part-2",
+        "runtime": "130 min",
+        "released": "15 Jul 2011",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Mystery"
+        ],
+        "budget": 381447587
+    },
+    {
+        "id": "tt0041959",
+        "title": "The Third Man",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "The Third Man"
+        },
+        "slug": "the-third-man",
+        "runtime": "93 min",
+        "released": "03 Sep 1949",
+        "genres": [
+            "Film-Noir",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 1067364
+    },
+    {
+        "id": "tt2267998",
+        "title": "Gone Girl",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg",
+            "title": "Gone Girl"
+        },
+        "slug": "gone-girl",
+        "runtime": "149 min",
+        "released": "03 Oct 2014",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "budget": 167767189
+    },
+    {
+        "id": "tt2024544",
+        "title": "12 Years a Slave",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SX300.jpg",
+            "title": "12 Years a Slave"
+        },
+        "slug": "12-years-a-slave",
+        "runtime": "134 min",
+        "released": "08 Nov 2013",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "budget": 56671993
+    },
+    {
+        "id": "tt0052618",
+        "title": "Ben-Hur",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "Ben-Hur"
+        },
+        "slug": "ben-hur",
+        "runtime": "212 min",
+        "released": "18 Nov 1959",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ],
+        "budget": 74432704
+    },
+    {
+        "id": "tt0017925",
+        "title": "The General",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "The General"
+        },
+        "slug": "the-general",
+        "runtime": "67 min",
+        "released": "02 Jan 1927",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0077416",
+        "title": "The Deer Hunter",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "The Deer Hunter"
+        },
+        "slug": "the-deer-hunter",
+        "runtime": "183 min",
+        "released": "23 Feb 1979",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 48979328
+    },
+    {
+        "id": "tt0112471",
+        "title": "Before Sunrise",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Before Sunrise"
+        },
+        "slug": "before-sunrise",
+        "runtime": "101 min",
+        "released": "27 Jan 1995",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 5535405
+    },
+    {
+        "id": "tt0050986",
+        "title": "Wild Strawberries",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "title": "Wild Strawberries"
+        },
+        "slug": "wild-strawberries",
+        "runtime": "91 min",
+        "released": "22 Jun 1959",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0107207",
+        "title": "In the Name of the Father",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "In the Name of the Father"
+        },
+        "slug": "in-the-name-of-the-father",
+        "runtime": "133 min",
+        "released": "25 Feb 1994",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 25096862
+    },
+    {
+        "id": "tt2278388",
+        "title": "The Grand Budapest Hotel",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg",
+            "title": "The Grand Budapest Hotel"
+        },
+        "slug": "the-grand-budapest-hotel",
+        "runtime": "99 min",
+        "released": "28 Mar 2014",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ],
+        "budget": 59301324
+    },
+    {
+        "id": "tt0031679",
+        "title": "Mr. Smith Goes to Washington",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+            "title": "Mr. Smith Goes to Washington"
+        },
+        "slug": "mr-smith-goes-to-washington",
+        "runtime": "129 min",
+        "released": "19 Oct 1939",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 144738
+    },
+    {
+        "id": "tt3170832",
+        "title": "Room",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_SX300.jpg",
+            "title": "Room"
+        },
+        "slug": "room",
+        "runtime": "118 min",
+        "released": "22 Jan 2016",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 14677654
+    },
+    {
+        "id": "tt2119532",
+        "title": "Hacksaw Ridge",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SX300.jpg",
+            "title": "Hacksaw Ridge"
+        },
+        "slug": "hacksaw-ridge",
+        "runtime": "139 min",
+        "released": "04 Nov 2016",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "budget": 67209615
+    },
+    {
+        "id": "tt0015324",
+        "title": "Sherlock Jr.",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+            "title": "Sherlock Jr."
+        },
+        "slug": "sherlock-jr",
+        "runtime": "45 min",
+        "released": "11 May 1924",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Romance"
+        ],
+        "budget": 977375
+    },
+    {
+        "id": "tt0048473",
+        "title": "Pather Panchali",
+        "popularity": "8.4",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX300.jpg",
+            "title": "Pather Panchali"
+        },
+        "slug": "pather-panchali",
+        "runtime": "125 min",
+        "released": "26 Aug 1955",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 134241
+    },
+    {
+        "id": "tt0892769",
+        "title": "How to Train Your Dragon",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg",
+            "title": "How to Train Your Dragon"
+        },
+        "slug": "how-to-train-your-dragon",
+        "runtime": "98 min",
+        "released": "26 Mar 2010",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "budget": 217581231
+    },
+    {
+        "id": "tt0046268",
+        "title": "The Wages of Fear",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+            "title": "The Wages of Fear"
+        },
+        "slug": "the-wages-of-fear",
+        "runtime": "131 min",
+        "released": "16 Feb 1955",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0072684",
+        "title": "Barry Lyndon",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "title": "Barry Lyndon"
+        },
+        "slug": "barry-lyndon",
+        "runtime": "185 min",
+        "released": "18 Dec 1975",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0353969",
+        "title": "Memories of Murder",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+            "title": "Memories of Murder"
+        },
+        "slug": "memories-of-murder",
+        "runtime": "132 min",
+        "released": "02 May 2003",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "budget": 15357
+    },
+    {
+        "id": "tt0050976",
+        "title": "The Seventh Seal",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2I1ZWU4YjMtYzU0My00YmMzLWFmNTAtZDJhZGYwMmI3YWQ5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "The Seventh Seal"
+        },
+        "slug": "the-seventh-seal",
+        "runtime": "96 min",
+        "released": "13 Oct 1958",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "History"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt4729430",
+        "title": "Klaus",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "title": "Klaus"
+        },
+        "slug": "klaus",
+        "runtime": "96 min",
+        "released": "15 Nov 2019",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt1392190",
+        "title": "Mad Max: Fury Road",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Mad Max: Fury Road"
+        },
+        "slug": "mad-max-fury-road",
+        "runtime": "120 min",
+        "released": "15 May 2015",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "budget": 154109060
+    },
+    {
+        "id": "tt0118715",
+        "title": "The Big Lebowski",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_SX300.jpg",
+            "title": "The Big Lebowski"
+        },
+        "slug": "the-big-lebowski",
+        "runtime": "117 min",
+        "released": "06 Mar 1998",
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "budget": 18254458
+    },
+    {
+        "id": "tt3011894",
+        "title": "Wild Tales",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+            "title": "Wild Tales"
+        },
+        "slug": "wild-tales",
+        "runtime": "122 min",
+        "released": "21 Aug 2014",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 3106530
+    },
+    {
+        "id": "tt0198781",
+        "title": "Monsters, Inc.",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg",
+            "title": "Monsters, Inc."
+        },
+        "slug": "monsters-inc",
+        "runtime": "92 min",
+        "released": "02 Nov 2001",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": 290642256
+    },
+    {
+        "id": "tt0978762",
+        "title": "Mary and Max",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Mary and Max"
+        },
+        "slug": "mary-and-max",
+        "runtime": "92 min",
+        "released": "12 Mar 2010",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0073195",
+        "title": "Jaws",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+            "title": "Jaws"
+        },
+        "slug": "jaws",
+        "runtime": "124 min",
+        "released": "20 Jun 1975",
+        "genres": [
+            "Adventure",
+            "Thriller"
+        ],
+        "budget": 260758300
+    },
+    {
+        "id": "tt0019254",
+        "title": "The Passion of Joan of Arc",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "The Passion of Joan of Arc"
+        },
+        "slug": "the-passion-of-joan-of-arc",
+        "runtime": "114 min",
+        "released": "25 Oct 1928",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "budget": 21877
+    },
+    {
+        "id": "tt0395169",
+        "title": "Hotel Rwanda",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Hotel Rwanda"
+        },
+        "slug": "hotel-rwanda",
+        "runtime": "121 min",
+        "released": "04 Feb 2005",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "budget": 23530892
+    },
+    {
+        "id": "tt0075148",
+        "title": "Rocky",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_SX300.jpg",
+            "title": "Rocky"
+        },
+        "slug": "rocky",
+        "runtime": "120 min",
+        "released": "03 Dec 1976",
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "budget": 117235147
+    },
+    {
+        "id": "tt0097165",
+        "title": "Dead Poets Society",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Dead Poets Society"
+        },
+        "slug": "dead-poets-society",
+        "runtime": "128 min",
+        "released": "09 Jun 1989",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "budget": 95860116
+    },
+    {
+        "id": "tt0046438",
+        "title": "Tokyo Story",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "Tokyo Story"
+        },
+        "slug": "tokyo-story",
+        "runtime": "136 min",
+        "released": "13 Mar 1972",
+        "genres": [
+            "Drama"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0091763",
+        "title": "Platoon",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Platoon"
+        },
+        "slug": "platoon",
+        "runtime": "120 min",
+        "released": "06 Feb 1987",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 138530565
+    },
+    {
+        "id": "tt1950186",
+        "title": "Ford v Ferrari",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_SX300.jpg",
+            "title": "Ford v Ferrari"
+        },
+        "slug": "ford-v-ferrari",
+        "runtime": "152 min",
+        "released": "15 Nov 2019",
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "budget": 117624357
+    },
+    {
+        "id": "tt0088247",
+        "title": "The Terminator",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "The Terminator"
+        },
+        "slug": "the-terminator",
+        "runtime": "107 min",
+        "released": "26 Oct 1984",
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "budget": 38371200
+    },
+    {
+        "id": "tt0092005",
+        "title": "Stand by Me",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Stand by Me"
+        },
+        "slug": "stand-by-me",
+        "runtime": "89 min",
+        "released": "22 Aug 1986",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "budget": 52287414
+    },
+    {
+        "id": "tt1979320",
+        "title": "Rush",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Rush"
+        },
+        "slug": "rush",
+        "runtime": "123 min",
+        "released": "27 Sep 2013",
+        "genres": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "budget": 26947624
+    },
+    {
+        "id": "tt0758758",
+        "title": "Into the Wild",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_SX300.jpg",
+            "title": "Into the Wild"
+        },
+        "slug": "into-the-wild",
+        "runtime": "148 min",
+        "released": "19 Oct 2007",
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "budget": 18354356
+    },
+    {
+        "id": "tt3315342",
+        "title": "Logan",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "Logan"
+        },
+        "slug": "logan",
+        "runtime": "137 min",
+        "released": "03 Mar 2017",
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "budget": 226277068
+    },
+    {
+        "id": "tt0032138",
+        "title": "The Wizard of Oz",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_SX300.jpg",
+            "title": "The Wizard of Oz"
+        },
+        "slug": "the-wizard-of-oz",
+        "runtime": "102 min",
+        "released": "25 Aug 1939",
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "budget": 24668669
+    },
+    {
+        "id": "tt1895587",
+        "title": "Spotlight",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg",
+            "title": "Spotlight"
+        },
+        "slug": "spotlight",
+        "runtime": "129 min",
+        "released": "20 Nov 2015",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "budget": 45055776
+    },
+    {
+        "id": "tt0074958",
+        "title": "Network",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZGNjYjM2MzItZGQzZi00NmY3LTgxOGUtMTQ2MWQxNWQ2MmMwXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_SX300.jpg",
+            "title": "Network"
+        },
+        "slug": "network",
+        "runtime": "121 min",
+        "released": "27 Nov 1976",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 23689877
+    },
+    {
+        "id": "tt0107048",
+        "title": "Groundhog Day",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "Groundhog Day"
+        },
+        "slug": "groundhog-day",
+        "runtime": "101 min",
+        "released": "12 Feb 1993",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "budget": 71107962
+    },
+    {
+        "id": "tt0382932",
+        "title": "Ratatouille",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg",
+            "title": "Ratatouille"
+        },
+        "slug": "ratatouille",
+        "runtime": "111 min",
+        "released": "29 Jun 2007",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": 206445654
+    },
+    {
+        "id": "tt0070047",
+        "title": "The Exorcist",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+            "title": "The Exorcist"
+        },
+        "slug": "the-exorcist",
+        "runtime": "122 min",
+        "released": "26 Dec 1973",
+        "genres": [
+            "Horror"
+        ],
+        "budget": 233005644
+    },
+    {
+        "id": "tt1028532",
+        "title": "Hachi: A Dog's Tale",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Hachi: A Dog's Tale"
+        },
+        "slug": "hachi-a-dogs-tale",
+        "runtime": "93 min",
+        "released": "12 Mar 2010",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Family"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0317705",
+        "title": "The Incredibles",
+        "popularity": "8.0",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX300.jpg",
+            "title": "The Incredibles"
+        },
+        "slug": "the-incredibles",
+        "runtime": "115 min",
+        "released": "05 Nov 2004",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "budget": 261441092
+    },
+    {
+        "id": "tt0381681",
+        "title": "Before Sunset",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_SX300.jpg",
+            "title": "Before Sunset"
+        },
+        "slug": "before-sunset",
+        "runtime": "80 min",
+        "released": "30 Jul 2004",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "budget": 5820649
+    },
+    {
+        "id": "tt0036868",
+        "title": "The Best Years of Our Lives",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "The Best Years of Our Lives"
+        },
+        "slug": "the-best-years-of-our-lives",
+        "runtime": "170 min",
+        "released": "29 May 1947",
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "budget": 23650000
+    },
+    {
+        "id": "tt0071411",
+        "title": "Dersu Uzala",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "Dersu Uzala"
+        },
+        "slug": "dersu-uzala",
+        "runtime": "142 min",
+        "released": "20 Dec 1977",
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0032976",
+        "title": "Rebecca",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "Rebecca"
+        },
+        "slug": "rebecca",
+        "runtime": "130 min",
+        "released": "12 Apr 1940",
+        "genres": [
+            "Drama",
+            "Film-Noir",
+            "Mystery"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0476735",
+        "title": "My Father and My Son",
+        "popularity": "8.3",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "My Father and My Son"
+        },
+        "slug": "my-father-and-my-son",
+        "runtime": "112 min",
+        "released": "18 Nov 2005",
+        "genres": [
+            "Drama",
+            "Family"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0061512",
+        "title": "Cool Hand Luke",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "title": "Cool Hand Luke"
+        },
+        "slug": "cool-hand-luke",
+        "runtime": "127 min",
+        "released": "01 Nov 1967",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0032551",
+        "title": "The Grapes of Wrath",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "The Grapes of Wrath"
+        },
+        "slug": "the-grapes-of-wrath",
+        "runtime": "129 min",
+        "released": "15 Mar 1940",
+        "genres": [
+            "Drama"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0058946",
+        "title": "The Battle of Algiers",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "title": "The Battle of Algiers"
+        },
+        "slug": "the-battle-of-algiers",
+        "runtime": "121 min",
+        "released": "20 Sep 1967",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "budget": 879794
+    },
+    {
+        "id": "tt0325980",
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "popularity": "8.0",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "Pirates of the Caribbean: The Curse of the Black Pearl"
+        },
+        "slug": "pirates-of-the-caribbean-the-curse-of-the-black-pearl",
+        "runtime": "143 min",
+        "released": "09 Jul 2003",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "budget": 305413918
+    },
+    {
+        "id": "tt0035446",
+        "title": "To Be or Not to Be",
+        "popularity": "8.2",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+            "title": "To Be or Not to Be"
+        },
+        "slug": "to-be-or-not-to-be",
+        "runtime": "99 min",
+        "released": "06 Mar 1942",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "War"
+        ],
+        "budget": 3270000
+    },
+    {
+        "id": "tt0245712",
+        "title": "Amores perros",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMjQxMWJhMzMtMzllZi00NzMwLTllYjktNTcwZmU4ZmU3NTA0XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_SX300.jpg",
+            "title": "Amores perros"
+        },
+        "slug": "amores-perros",
+        "runtime": "154 min",
+        "released": "13 Apr 2001",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": 5408467
+    },
+    {
+        "id": "tt0059742",
+        "title": "The Sound of Music",
+        "popularity": "8.0",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BM2Q3YWMzMWItMjY4NS00ZjQ4LWEwYzQtODMwMjU1ZDg4ZjA4XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+            "title": "The Sound of Music"
+        },
+        "slug": "the-sound-of-music",
+        "runtime": "172 min",
+        "released": "01 Apr 1965",
+        "genres": [
+            "Biography",
+            "Drama",
+            "Family"
+        ],
+        "budget": 159287539
+    },
+    {
+        "id": "tt0079470",
+        "title": "Life of Brian",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Life of Brian"
+        },
+        "slug": "life-of-brian",
+        "runtime": "94 min",
+        "released": "17 Aug 1979",
+        "genres": [
+            "Comedy"
+        ],
+        "budget": 20206622
+    },
+    {
+        "id": "tt0053198",
+        "title": "The 400 Blows",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+            "title": "The 400 Blows"
+        },
+        "slug": "the-400-blows",
+        "runtime": "99 min",
+        "released": "16 Nov 1959",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 509
+    },
+    {
+        "id": "tt0060827",
+        "title": "Persona",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNjdhMGYyNTYtNTg5OC00MzY0LWE4YjctZWI3NDRkMzIyODBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+            "title": "Persona"
+        },
+        "slug": "persona",
+        "runtime": "83 min",
+        "released": "16 Mar 1967",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0025316",
+        "title": "It Happened One Night",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+            "title": "It Happened One Night"
+        },
+        "slug": "it-happened-one-night",
+        "runtime": "105 min",
+        "released": "22 Feb 1934",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "budget": null
+    },
+    {
+        "id": "tt0113247",
+        "title": "La Haine",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+            "title": "La Haine"
+        },
+        "slug": "la-haine",
+        "runtime": "98 min",
+        "released": "23 Feb 1996",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "budget": 280859
+    },
+    {
+        "id": "tt0103639",
+        "title": "Aladdin",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+            "title": "Aladdin"
+        },
+        "slug": "aladdin",
+        "runtime": "90 min",
+        "released": "25 Nov 1992",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "budget": 217350219
+    },
+    {
+        "id": "tt1160419",
+        "title": "Dune",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+            "title": "Dune"
+        },
+        "slug": "dune",
+        "runtime": "155 min",
+        "released": "22 Oct 2021",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "budget": 108188660
+    },
+    {
+        "id": "tt0101414",
+        "title": "Beauty and the Beast",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+            "title": "Beauty and the Beast"
+        },
+        "slug": "beauty-and-the-beast",
+        "runtime": "84 min",
+        "released": "22 Nov 1991",
+        "genres": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "budget": 218967620
+    },
+    {
+        "id": "tt0083987",
+        "title": "Gandhi",
+        "popularity": "8.0",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+            "title": "Gandhi"
+        },
+        "slug": "gandhi",
+        "runtime": "191 min",
+        "released": "25 Feb 1983",
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "budget": 52767889
+    },
+    {
+        "id": "tt1454029",
+        "title": "The Help",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_SX300.jpg",
+            "title": "The Help"
+        },
+        "slug": "the-help",
+        "runtime": "146 min",
+        "released": "10 Aug 2011",
+        "genres": [
+            "Drama"
+        ],
+        "budget": 169708112
+    },
+    {
+        "id": "tt4016934",
+        "title": "The Handmaiden",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+            "title": "The Handmaiden"
+        },
+        "slug": "the-handmaiden",
+        "runtime": "145 min",
+        "released": "01 Jun 2016",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "budget": 2006788
+    },
+    {
+        "id": "tt0099348",
+        "title": "Dances with Wolves",
+        "popularity": "8.1",
+        "image": {
+            "url": "https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_SX300.jpg",
+            "title": "Dances with Wolves"
+        },
+        "slug": "dances-with-wolves",
+        "runtime": "181 min",
+        "released": "21 Nov 1990",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "budget": 184208848
+    }
+]

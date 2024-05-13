@@ -1,0 +1,35 @@
+<div class="filter-tab">
+	<mat-form-field class="searchFilter" style="width: 30rem">
+		<mat-label>Search Movie</mat-label>
+		<input
+			matInput
+			type="text"
+			[(ngModel)]="searchFilter"
+			(input)="onInputChanged()"
+		/>
+		@if (searchFilter) {
+		<button
+			matSuffix
+			mat-icon-button
+			aria-label="Clear"
+			(click)="searchFilter = ''; onInputChanged()"
+		>
+			<mat-icon>close</mat-icon>
+		</button>
+		}
+	</mat-form-field>
+
+	<p-multiSelect
+		[options]="generDropdownOptions"
+		[(ngModel)]="selectedGenre"
+		placeholder="Select Geners"
+		(onChange)="onGenreChanged()"
+	/>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center">
+	<app-movie-tile
+		style="display: contents"
+		[movies]="filteredMovieList"
+	></app-movie-tile>
+</div>

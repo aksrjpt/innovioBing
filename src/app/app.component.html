@@ -1,0 +1,25 @@
+<div class="app-content">
+	<div style="padding: 20px">
+		<img
+			src="https://innovio.io/wp-content/uploads/2023/08/wide-nosub__light.svg"
+			width="170px"
+		/>
+	</div>
+	<mat-sidenav-container class="example-container">
+		<mat-sidenav #sidenav mode="side" opened class="example-sidenav">
+			<a routerLink="/">
+				<mat-icon fontIcon="home" class="menu-icon"></mat-icon
+			></a>
+			<a routerLink="/all-movies"
+				><mat-icon fontIcon="local_movies" class="menu-icon"> </mat-icon
+			></a>
+			<a routerLink="/"
+				><mat-icon fontIcon="watch_later" class="menu-icon"></mat-icon
+			></a>
+		</mat-sidenav>
+	</mat-sidenav-container>
+
+	<div class="main-content">
+		<router-outlet></router-outlet>
+	</div>
+</div>

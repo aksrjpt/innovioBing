@@ -1,0 +1,7 @@
+<ng-container *ngFor="let movie of movies">
+	<p-card styleClass="movie-tile" (click)="selectedMovie(movie.id)">
+		<ng-template pTemplate="header">
+			<img alt="Card" [src]="movie.image.url" style="height: 15rem" />
+		</ng-template>
+	</p-card>
+</ng-container>

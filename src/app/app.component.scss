@@ -1,0 +1,28 @@
+.app-content {
+	background-image: linear-gradient(
+		to top,
+		rgba(0, 0, 0, 0.8) 0,
+		rgba(0, 0, 0, 0) 60%,
+		rgba(0, 0, 0, 0.8) 100%
+	);
+}
+.example-sidenav {
+	display: flex;
+	position: fixed;
+	width: 50px;
+	height: 500px;
+	top: 10%;
+	color: white;
+	background: rgb(116 116 116 / 50%);
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+.menu-icon {
+	font-size: 2rem;
+	height: 30px;
+	width: 30px;
+	margin-bottom: 20px;
+}
+.main-content {
+	margin-left: 60px;
+}
