@@ -4,7 +4,6 @@ import { RecentlyVisitedService } from "src/app/services/recently-visited.servic
 @Component({
 	selector: "app-recently-visited",
 	templateUrl: "./recently-visited.component.html",
-	styleUrl: "./recently-visited.component.scss",
 })
 export class RecentlyVisitedComponent {
 	recentlyVisitedService: RecentlyVisitedService = inject(
