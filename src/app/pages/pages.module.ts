@@ -24,6 +24,7 @@ import { MatSidenavModule } from "@angular/material/sidenav";
 import { MatToolbarModule } from "@angular/material/toolbar";
 import { InputGroupModule } from "primeng/inputgroup";
 import { InputGroupAddonModule } from "primeng/inputgroupaddon";
+import { RecentlyVisitedComponent } from "./recently-visited/recently-visited.component";
 
 const COMPONENTS = [
 	HomeComponent,
@@ -31,6 +32,7 @@ const COMPONENTS = [
 	MovieViewComponent,
 	DashboardComponent,
 	MovieTileComponent,
+	RecentlyVisitedComponent,
 ];
 
 @NgModule({

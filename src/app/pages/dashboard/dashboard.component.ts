@@ -2,7 +2,6 @@ import { Component, OnDestroy, OnInit, inject } from "@angular/core";
 import { Store } from "@ngrx/store";
 import { cloneDeep } from "lodash";
 import { Subscription } from "rxjs";
-import { RecentlyVisitedService } from "src/app/services/recently-visited.service";
 import { Movie } from "src/app/shared";
 import { movies } from "src/app/states/movie/movie.state";
 const MAX_DISPLAY_MOVIE_COUNT = 10;
@@ -12,12 +11,6 @@ const MAX_DISPLAY_MOVIE_COUNT = 10;
 })
 export class DashboardComponent implements OnInit, OnDestroy {
 	topPopularMovies: Movie[] = [];
-	recentlyVisitedService: RecentlyVisitedService = inject(
-		RecentlyVisitedService
-	);
-	recentlyVisitedMovies = JSON.parse(
-		this.recentlyVisitedService.recentlyVisitedSignal()
-	);
 
 	private pageSubscriptions = new Subscription();
 	private readonly store = inject(Store);
